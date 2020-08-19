@@ -25,6 +25,7 @@ export default Vue.extend({});
   &__content {
     display: flex;
     align-items: center;
+    text-align: center;
     justify-content: center;
     flex-direction: column;
   }
